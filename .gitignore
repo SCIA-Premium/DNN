@@ -4,3 +4,5 @@ models
 __pycache__
 
 venv
+
+*.avi
