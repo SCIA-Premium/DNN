@@ -82,3 +82,5 @@ vot-trax==3.0.3
 wcwidth==0.2.5
 widgetsnbextension==4.0.5
 yacs==0.1.8
+gdown==4.6.0
+mxnet==1.9.1

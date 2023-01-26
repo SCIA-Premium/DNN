@@ -1,5 +1,7 @@
 data
 models
+results
+tracking_results
 
 __pycache__
 
