@@ -106,10 +106,6 @@ six==1.16.0
 soupsieve==2.3.2.post1
 stack-data==0.6.2
 sympy==1.11.1
-tb-nightly==2.12.0a20230127
-tensorboard==2.11.2
-tensorboard-data-server==0.7.0
-tensorboard-plugin-wit==1.8.1
 tensorflow==2.11.0
 tensorflow-estimator==2.11.0
 tensorflow-io-gcs-filesystem==0.30.0
@@ -135,6 +131,6 @@ Werkzeug==2.2.2
 widgetsnbextension==4.0.5
 wrapt==1.14.1
 yacs==0.1.8
-cupy
 mxnet-cu90
 opencv_python
+dataset
