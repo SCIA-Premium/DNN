@@ -1,6 +1,8 @@
 data
 models
 results
+results.tex
+results_*
 tracking_results
 
 __pycache__
