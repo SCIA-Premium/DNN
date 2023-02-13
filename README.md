@@ -16,6 +16,9 @@ Victor Simonin <victor.simonin@epita.fr\>
 
 ---
 
+![](poc/Biker.gif)
+![](poc/girl.gif)
+
 Votre travail consistera à analyser le survey suivant :
 
 https://dl.acm.org/doi/pdf/10.1145/3309665?casa_token=BH4tgaEr-8sAAAAA:5qdVckQiLiJJg19EYRx1r0ZZ_yY9KQho-UTtslAONilhrMY2S9mE4lsfOfkr2y6NcJSfhkL-D2wwrw
